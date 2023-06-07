@@ -1,0 +1,23 @@
+{
+    "tournament": "Indian Premier League",
+    "shortName":"IPL",
+    "matchNo": "Final",
+    "matchDate": "Mon,29 May",
+    "resultDescription": "CSK won by 5 wickets (0 balls left) (DLS method)",
+    "matchDescription": "Final · T20 74 of 74",
+    "teamA":{
+        "logoPath":"/assets/images/teamsLogo/GT.png",
+        "shortName":"GT",
+        "runs":"214",
+        "out":"4",
+        "overs":"20"
+    },
+    "teamB":{
+        "logoPath":"/assets/images/teamsLogo/CSK.png",
+        "shortName":"CSK",
+        "runs":"171",
+        "out":"5",
+        "overs":"15"
+    },
+    "highlightsImages":["/assets/images/highlights/h1.jpeg","/assets/images/highlights/h2.jpeg"]
+}

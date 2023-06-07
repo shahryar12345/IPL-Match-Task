@@ -1,0 +1,22 @@
+.team-detail-container{
+    color: #bdc1c6;
+    .logo-on-right{
+        flex-flow: row-reverse !important;
+    }
+    .logo-name-col{
+        display: flex !important;
+        flex-flow: column;
+        align-items: end;
+        
+        .logo-name-container{
+            display: flex !important;
+            flex-flow: column;
+            align-items: center;
+           
+        }
+    }
+    .logo-name-col.align-start{
+        align-items: start;
+        margin-left: 25px;  
+    }
+}

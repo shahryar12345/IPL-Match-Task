@@ -1,0 +1,69 @@
+.match-details-container{
+    width: 600px;
+    margin: auto;
+    border: 1px solid lightgray;
+    border-radius: 8px;
+    color: #bdc1c6;
+    .heading-container{
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        background: #223577;
+        padding-top: 15px;
+        
+        .tournament{
+            color: white;
+            font-size: 20px;
+            margin-bottom: 0px;
+            font-weight: 700;
+            padding-left: 15px;
+        }
+        .matchNo{
+            margin-top: 0px;
+            color: lightgray;
+            font-size: 12px;
+            font-weight: 200;
+            padding-left: 15px;
+            margin-bottom: 20px;
+        } 
+    }
+
+    .detail-container{
+        .ui.grid{
+            margin: 0px;
+            .row{
+                padding: 0px;
+            }
+            .short-name-row{
+                margin-top: 15px;
+                margin-bottom: 10px;
+            }
+            .team-detail-row{
+                margin-bottom: 10px;
+            }
+            .description-row{
+                margin-top: 10px;
+                margin-bottom: 20px;
+            }
+            .highlight-row{
+                margin-bottom: 20px;
+                margin-left: 20px;
+                .column{
+                    padding: 0px;
+                    padding-right: 8px;
+                    border-radius: 10px;
+                    img{
+                        border-radius: 10px;
+                    }
+                }
+            }
+            .short-name{
+                margin-top: 0px;
+                margin-bottom: 0px;
+                margin-left: 20px;
+                font-size: 10px;
+                font-weight: 200;
+                color: lightgray;
+            }
+        } 
+    }
+}

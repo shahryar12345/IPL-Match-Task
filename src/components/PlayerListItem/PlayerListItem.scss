@@ -1,0 +1,51 @@
+.player-list-item {
+    width: 100%;
+    border: 1px solid #3c4043;
+    border-radius: 8px;
+
+    .image{
+        img{
+            width: 100%;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+            height: 95px;
+        }
+    }
+    .content{
+        padding-left: 8px;
+        padding-right: 8px;
+        position: relative;
+        height: 90px;
+        .name{
+            color: #bdc1c6;
+            display: -webkit-box;
+            font-size: 14px;
+        }
+        .type{
+            color: #9aa0a6;
+            font-size: 12px;
+            line-height: 16px;
+            margin-top: 4px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+        .team{
+            color: #9aa0a6;
+            left: 8px;
+            right: 8px;
+            bottom: 7px;
+            position: absolute;
+            font-size: 12px;
+            line-height: 16px;
+            margin-top: 4px;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+        }
+    }
+}
+
+    
+
+

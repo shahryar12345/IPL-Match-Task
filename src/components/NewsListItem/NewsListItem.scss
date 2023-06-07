@@ -1,0 +1,28 @@
+.new-list-item{
+
+    border: 1px solid #3c4043;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    .content{
+        margin-right: 10px;
+        .heading{
+            color: rgb(138, 180, 248);
+            font-size: 16px;
+            line-height:20.8px
+        }
+        .source-time-ago{
+            color: #9aa0a6;
+            font-size: 12px;
+            line-height: 1.58;
+            margin-top: 5px;
+        }
+    }
+    .image{
+        img{
+            border-radius: 8px;
+        } 
+    }
+}

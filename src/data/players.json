@@ -1,0 +1,312 @@
+[
+    {
+        "name": "MS Dhoni",
+        "type": "Wicket-keeper",
+        "team": "Super Kings",
+        "image": "/assets/images/players/p1.jpeg"
+    },
+    {
+        "name": "Virat Kohli",
+        "type": "Batter",
+        "team": "Royal Challengers",
+        "image": "/assets/images/players/p2.jpeg"
+    },
+    {
+        "name": "Rohit Sharma",
+        "type": "Batter",
+        "team": "Indians",
+        "image": "/assets/images/players/p3.jpeg"   
+    },
+    {
+        "name": "Shubman Gill",
+        "type": "Batter",
+        "team": "Titans",
+        "image": "/assets/images/players/p4.jpeg"
+    },
+    {
+        "name": "Ruturaj Gaikwad",
+        "type": "Batter",
+        "team": "Super Kings",
+        "image": "/assets/images/players/p5.jpeg"
+    },
+    {
+        "name": "Yashasvi Jaiswal",
+        "type": "Batter",
+        "team": "Royals",
+        "image": "/assets/images/players/p6.jpeg"
+    },
+    {
+        "name": "Matheesha Pathirana",
+        "type": "Bowler",
+        "team": "Super Kings",
+        "image": "/assets/images/players/p7.jpeg"
+    },
+    {
+        "name": "Rinku Singh",
+        "type": "Batter",
+        "team": "Knight Riders",
+        "image": "/assets/images/players/p8.jpeg"
+    },
+    {
+        "name": "Faf du Plessis",
+        "type": "Batter",
+        "team": "Royal Challengers",
+        "image": "/assets/images/players/p9.jpeg"
+    },
+    {
+        "name": "Suryakumar Yadav",
+        "type": "Batter",
+        "team": "Indians",
+        "image": "/assets/images/players/p10.jpeg"
+    },
+    {
+        "name": "Devon Conway",
+        "type": "Wicket-keeper",
+        "team": "Super Kings",
+        "image": "/assets/images/players/p11.jpeg"
+    },
+    {
+        "name": "KL Rahul",
+        "type": "Batter",
+        "team": "Super Giants",
+        "image": "/assets/images/players/p12.jpeg"
+    },
+    {
+        "name": "Ravindra Jadeja",
+        "type": "All-rounder",
+        "team": "Indians",
+        "image": "/assets/images/players/p13.jpeg"
+    },
+    {
+        "name": "Ajinkya Rahane",
+        "type": "Batter",
+        "team": "Super Kings",
+        "image": "/assets/images/players/p14.jpeg"
+    },
+    {
+        "name": "Hardik Pandya",
+        "type": "All-rounder",
+        "team": "Titans",
+        "image": "/assets/images/players/p15.jpeg"
+    },
+    {
+        "name": "Tushar Deshpande",
+        "type": "Bowler",
+        "team": "Super Kings",
+        "image": "/assets/images/players/p16.jpeg"
+    },
+    {
+        "name": "Rashid Khan",
+        "type": "Bowler",
+        "team": "Titans",
+        "image": "/assets/images/players/p17.jpeg"
+    },
+    {
+        "name": "Sai Sudharsan",
+        "type": "Batter",
+        "team": "Titans",
+        "image": "/assets/images/players/p18.jpeg"
+    },
+    {
+        "name": "Mohit Sharma",
+        "type": "Bowler",
+        "team": "Titans",
+        "image": "/assets/images/players/p19.png"
+    },
+    {
+        "name": "David Warner",
+        "type": "Batter",
+        "team": "Capitals",
+        "image": "/assets/images/players/p20.jpeg"
+    },
+    {
+        "name": "Arjun Tendulkar",
+        "type": "Bowler",
+        "team": "Indians",
+        "image": "/assets/images/players/p21.jpeg"
+    },
+    {
+        "name": "Shivam Dube",
+        "type": "All-rounder",
+        "team": "Super Kings",
+        "image": "/assets/images/players/p22.jpeg"
+    },
+    {
+        "name": "Kyle Mayers",
+        "type": "All-rounder",
+        "team": "Super Giants",
+        "image": "/assets/images/players/p23.jpeg"
+    },
+    {
+        "name": "Shikhar Dhawan",
+        "type": "Batter",
+        "team": "Punjab Kings",
+        "image": "/assets/images/players/p24.jpeg"
+    },
+    {
+        "name": "Venkatesh Iyer",
+        "type": "All-rounder",
+        "team": "Knight Riders",
+        "image": "/assets/images/players/p26.jpeg"
+    },  
+    {
+        "name": "Harry Brook",
+        "type": "Batter",
+        "team": "Sunrisers",
+        "image": "/assets/images/players/p27.jpeg"
+    },
+    {
+        "name": "Sanju Samson",
+        "type": "Wicket-keeper",
+        "team": "Royals",
+        "image": "/assets/images/players/p28.jpeg"
+    },
+    {
+        "name": "Nehal Wadhera",
+        "type": "All-rounder",
+        "team": "Indians",
+        "image": "/assets/images/players/p29.jpeg"
+    },
+    {
+        "name": "Prabhsimran Singh",
+        "type": "Wicket-keeper",
+        "team": "Punjab Kings",
+        "image": "/assets/images/players/p30.jpeg"
+    },
+    {
+        "name": "Ambati Rayudu",
+        "type": "Batter",
+        "team": "Super Kings",
+        "image": "/assets/images/players/p31.jpeg"
+    },
+    {
+        "name": "Aman Hakim Khan",
+        "type": "All-rounder",
+        "team": "Capitals",
+        "image": "/assets/images/players/p32.jpeg"
+    },
+    {
+        "name": "Naveen-ul-Haq",
+        "type": "Batter",
+        "team": "Super Giants",
+        "image": "/assets/images/players/p33.jpeg"
+    },
+    {
+        "name": "Tilak Varma",
+        "type": "Batter",
+        "team": "Indians",
+        "image": "/assets/images/players/p34.jpeg"
+    },
+    {
+        "name": "Mark Wood",
+        "type": "Cricket Bowler",
+        "team": "Super Giants",
+        "image": "/assets/images/players/p35.jpeg"
+    },
+
+
+
+
+    {
+        "name": "Jos Buttler",
+        "type": "Wicket-keeper",
+        "team": "Royals",
+        "image": "/assets/images/players/p36.jpeg"
+    },
+    {
+        "name": "Rahmanullah Gurbaz",
+        "type": "Wicket-keeper",
+        "team": "Knight Riders",
+        "image": "/assets/images/players/p37.jpeg"
+    },
+    {
+        "name": "Vyshak Vijay Kumar",
+        "type": "Cricket Bowler",
+        "team": "Royal Challengers",
+        "image": "/assets/images/players/p38.jpeg"
+    },
+    {
+        "name": "Dhruv Jurel",
+        "type": "Wicket-keeper",
+        "team": "Royals",
+        "image": "/assets/images/players/p39.jpeg"
+    },
+    {
+        "name": "Mahipal Lomror",
+        "type": "All-rounder",
+        "team": "Royal Challengers",
+        "image": "/assets/images/players/p40.jpeg"
+    },
+    {
+        "name": "Arshdeep Singh",
+        "type": "Cricket Bowler",
+        "team": "Punjab Kings",
+        "image": "/assets/images/players/p41.jpeg"
+    },
+    {
+        "name": "Akash Singh",
+        "type": "Cricket Bowler",
+        "team": "Super Kings",
+        "image": "/assets/images/players/p42.jpeg"
+    },
+    {
+        "name": "Cameron Green",
+        "type": "All-rounder",
+        "team": "Indians",
+        "image": "/assets/images/players/p43.jpeg"
+    },
+    {
+        "name": "Phil Salt",
+        "type": "Wicket-keeper",
+        "team": "Capitals",
+        "image": "/assets/images/players/p44.jpeg"
+    },
+    {
+        "name": "Piyush Chawla",
+        "type": "Cricket Bowler",
+        "team": "Indians",
+        "image": "/assets/images/players/p45.jpeg"
+    },
+    {
+        "name": "Mohammed Shami",
+        "type": "Cricket Bowler",
+        "team": "Titans",
+        "image": "/assets/images/players/p46.jpeg"
+    },
+    {
+        "name": "Shardul Thakur",
+        "type": "Cricket Bowler",
+        "team": "Knight Riders",
+        "image": "/assets/images/players/p47.jpeg"
+    },
+    {
+        "name": "Suyash Sharma",
+        "type": "Cricket Bowler",
+        "team": "Knight Riders",
+        "image": "/assets/images/players/p48.png"
+    },
+    {
+        "name": "Ayush Badoni",
+        "type": "Batter",
+        "team": "Super Giants",
+        "image": "/assets/images/players/p49.jpeg"
+    },
+    {
+        "name": "Nitish Rana",
+        "type": "Batter",
+        "team": "Knight Riders",
+        "image": "/assets/images/players/p49.jpeg"
+    },
+    {
+        "name": "Arshad Khan",
+        "type": "Cricket Bowler",
+        "team": "Indians",
+        "image": "/assets/images/players/p50.jpeg"
+    },
+    {
+        "name": "Yuzvendra Chahal",
+        "type": "Cricket Bowler",
+        "team": "Royals",
+        "image": "/assets/images/players/p51.jpeg"
+    }
+]
